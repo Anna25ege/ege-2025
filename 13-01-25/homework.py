@@ -38,4 +38,3 @@ print(int(my_str) + float)
 num_1 = input('Введите имя:')
 welcome_text= 'Привет,'
 print(welcome_text+ num_1)
-
