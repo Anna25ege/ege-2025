@@ -4,6 +4,7 @@ tracer(0)
 lt(90)
 m = 10
 
+color('red')
 for i in range (2):
     fd(13*m)
     rt(90)
@@ -15,6 +16,7 @@ rt(90)
 bk(3*m)
 lt(90)
 down()
+color('green')
 for i in range(2):
     fd(16*m)
     rt(90)
