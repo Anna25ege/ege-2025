@@ -6,7 +6,7 @@ for n in range(1,10000): # 6 = (6,7)
     else:
         r = '11' + r[2:] + '1'
     r = int(r,2)
-    if r >= 16:
+    if r >=16:
        ans.append(n)
 print(min(ans))
 
