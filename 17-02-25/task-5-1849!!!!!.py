@@ -7,6 +7,6 @@ for n in range(1,10000):
         R = '11' + R + '11'
     R = int(R,2)
     if R > 52:
-        ans.append(R)
+        ans.append(R) # добавить элеиетн в конец списка
 
 print(min(ans))

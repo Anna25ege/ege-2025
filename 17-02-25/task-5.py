@@ -9,7 +9,9 @@ def convert(num,sys):
 
 from string import digits, ascii_uppercase
 print(digits+ ascii_uppercase)
+
 # перевод в другие системы счисления (2 <= sys <= 36)
+
 def convert(num, sys):
     alph = digits + ascii_uppercase
     res = ''

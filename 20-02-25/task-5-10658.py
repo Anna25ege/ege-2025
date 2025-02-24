@@ -6,7 +6,7 @@ def convert(num, sys):
     return res[::-1]
 
 ans = []
-for N in range(11, 10000):
+for N in range(1, 10000):
     r = convert(N, 3)
     if r.count('0') + r.count('2') > r.count('1'):
         r = '22' + r
