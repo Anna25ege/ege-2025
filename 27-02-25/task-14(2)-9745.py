@@ -9,3 +9,10 @@ for x in alph[:19]: # alph 19 системы
     num = num1 + num2 + num3
     if num % 18 ==0:
         print(num//18)
+
+def sum_digits(num):
+    s = 0
+    while num:
+        s += num % 10
+        num //= 10
+    return s
