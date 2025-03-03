@@ -7,7 +7,6 @@ def convert (num,sys):
 
 num = 6*343**1156 - 5 * 49**1147 + 4* 7**1153 - 875
 ans = convert(num,7)
-num = str(num)
-ans = sum(map(int,num))
+ans = sum(map(int,ans))
 print(ans)
 

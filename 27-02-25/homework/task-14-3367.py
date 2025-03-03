@@ -1,12 +1,17 @@
+def convert (num,sys):
+    res = ''
+    while num:
+        res += str(num%sys)
+        num //= sys
+    return res [::-1]
 
-from string import digits, ascii_uppercase
 
-alph = digits + ascii_uppercase #36 символов
+ans = []
+for x in range(4036):
+    num = 3*16**2018 - 2*8**1028 - 3*4**1100 - 4**x - 2022
+    num4 = convert(num,4)
+    if num >0:
+        ans.append(sum(map(int,num4)))
 
-for x in alph[:4]:
-    num1 = 3*16**2018
-    num2 = 2*8**1028
-    num3 = 3*4**1100
-    num4 = int(4**x)
-    num5 = 2022
-    num= num1 - num2 - num3 - num4 -num5
+print(len(set(ans)))
+
