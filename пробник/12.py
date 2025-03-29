@@ -1,4 +1,4 @@
-for n in range(3,10000):
+for n in range(4,10000): # 3<n<10000
     st = '1' + '2'*n
     while '12' in st or '32' in st or '22' in st:
         if '12' in st:
