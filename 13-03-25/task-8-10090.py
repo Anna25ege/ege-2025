@@ -10,4 +10,4 @@ for p in permutations('0234567', 5):
     else:
         if s[0] != '0':
             cnt += 1
-print(k)
+print(cnt)
