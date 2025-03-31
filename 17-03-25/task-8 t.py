@@ -28,3 +28,5 @@ if '**' in i:
 for j in 'АИ':
     i = i.replace(j, '*')
 if '**' in i:
+
+>= не менее
