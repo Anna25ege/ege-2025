@@ -1,7 +1,7 @@
 import string
 from itertools import product
 
-alph = string.printable[:16]
+alph = '0123456789ABCDEF'
 
 cnt = 0
 for i in product(alph, repeat=5):
