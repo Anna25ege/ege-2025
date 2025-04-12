@@ -1,8 +1,9 @@
-def f(cur,end):
-    if cur== end:
+def f(cur, end):
+    if cur == end:
         return 1
     if cur < end:
         return 0
-    return f(cur - 2,end) + f(cur //2,end)
+    return f(cur - 2, end) + f(cur // 2, end)
 
-print(f(32,14)* f(14,1))
+
+print(f(32, 14) * f(14, 1))
