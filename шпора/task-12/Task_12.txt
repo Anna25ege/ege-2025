@@ -28,6 +28,9 @@ replace изменяет копию строки
     if summ == 15:
         print(n)
         break
+2.  summ = sum(map(int, st))
+    ans.append(summ)
+print(max(ans))
 
 2. Если после работы алгоритма в строке есть нечисловые значения, лучше от них избавиться
   st = st.replace('>', '')
