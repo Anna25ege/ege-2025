@@ -1,6 +1,6 @@
 for n in range(4, 10000):
     st = '1' + '2' * n
-    while '12' in st or '322' in st or '222':
+    while '12' in st or '322' in st or '222' in st:
         if '12' in st:
             st = st.replace('12', '2', 1)
         if '322' in st:
