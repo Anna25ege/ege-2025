@@ -4,39 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e2ae4dd-de27-4730-94d4-ce91b75a6300" name="Changes" comment="https://kompege.ru/variant?kim=25102458">
+    <list default="true" id="6e2ae4dd-de27-4730-94d4-ce91b75a6300" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/Task_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/Task_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task-1-12233.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task-1-12233.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task-1-17542.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task-1-17542.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task-1-1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task-1-1845.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task-1-4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task-1-4606.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-17514.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-17514.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-17620.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-17620.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-4581.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-4581.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-9732.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-9732.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-9770.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-9770.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/hm/task1-9824.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/hm/task1-9824.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/task-1-16367.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/task-1-16367.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/task1-17620.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/task1-17620.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task1/task1-4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-1/task1-4606.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-12234.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-12234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-16368.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-16368.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-17515.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-17515.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-19234.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-19234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-21697.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-21697.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-4582.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-4582.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-9733.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-9733.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-9771.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-9771.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task-2-9825.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task-2-9825.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/HM/task2-1846.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/HM/task2-1846.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/Task_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/Task_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/task-2-12671.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/task-2-12671.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/task-2-17543.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/task-2-17543.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/task-2-17621.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/task-2-17621.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/task-2-4607.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/task-2-4607.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task2/task-2-9771.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-2/task-2-9771.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/шпора/task3/Task_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-3/Task_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-14/Task_14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-14/Task_14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-14/task-14-10716.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-14/task-14-10716.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-14/task-14-17633.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-14/task-14-17633.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-14/task-14-4619.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-14/task-14-4619.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-14/task-149837.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-14/task-149837.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-15/task-15-17556.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-15/task-15-17556.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-15/task-15-4595.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-15/task-15-4595.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-15/task-15-9838.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-15/task-15-9838.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-16/Task_16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-16/Task_16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-16/taask-16-17672.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-16/taask-16-17672.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-16/task-16-17529.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-16/task-16-17529.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip/task-16/task-16-17679.py" beforeDir="false" afterPath="$PROJECT_DIR$/шпора/task-16/task-16-17679.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +104,11 @@
     "Python.task-1-9148.executor": "Run",
     "Python.task-1.executor": "Run",
     "Python.task-12-10094.executor": "Run",
+    "Python.task-12-12244.executor": "Run",
     "Python.task-12-15325.executor": "Run",
+    "Python.task-12-16378.executor": "Run",
+    "Python.task-12-17525.executor": "Run",
+    "Python.task-12-17553.executor": "Run",
     "Python.task-12-17631.executor": "Run",
     "Python.task-12-17675.executor": "Run",
     "Python.task-12-17746.executor": "Run",
@@ -131,15 +116,23 @@
     "Python.task-12-17866.executor": "Run",
     "Python.task-12-18131.executor": "Run",
     "Python.task-12-1856.executor": "Run",
+    "Python.task-12-19244.executor": "Run",
+    "Python.task-12-20806.executor": "Run",
+    "Python.task-12-21411.executor": "Run",
+    "Python.task-12-21707.executor": "Run",
     "Python.task-12-2226.executor": "Run",
     "Python.task-12-4592.executor": "Run",
     "Python.task-12-4610.executor": "Run",
+    "Python.task-12-4617.executor": "Run",
     "Python.task-12-7351.executor": "Run",
     "Python.task-12-7842.executor": "Run",
     "Python.task-12-8500.executor": "Run",
     "Python.task-12-9743.executor": "Run",
     "Python.task-12-9774.executor": "Run",
+    "Python.task-12-9781.executor": "Run",
+    "Python.task-12-9835.executor": "Run",
     "Python.task-13-10161.4.executor": "Run",
+    "Python.task-13-10578.executor": "Run",
     "Python.task-13-10783.executor": "Run",
     "Python.task-13-10786.executor": "Run",
     "Python.task-13-11232.executor": "Run",
@@ -150,22 +143,31 @@
     "Python.task-13-11794(2).executor": "Run",
     "Python.task-13-11794.executor": "Run",
     "Python.task-13-11835.executor": "Run",
+    "Python.task-13-12245.executor": "Run",
     "Python.task-13-14355.executor": "Run",
     "Python.task-13-14356.executor": "Run",
     "Python.task-13-14650.executor": "Run",
     "Python.task-13-16324.executor": "Run",
     "Python.task-13-17526(1)(t).executor": "Run",
     "Python.task-13-17526(1).executor": "Run",
+    "Python.task-13-17526.executor": "Run",
     "Python.task-13-17554.executor": "Run",
     "Python.task-13-17632.executor": "Run",
     "Python.task-13-17676.executor": "Run",
     "Python.task-13-17708.executor": "Run",
     "Python.task-13-17767.executor": "Run",
     "Python.task-13-1778.executor": "Run",
+    "Python.task-13-17867.executor": "Run",
     "Python.task-13-18615.executor": "Run",
     "Python.task-13-18955.executor": "Run",
+    "Python.task-13-19245.executor": "Run",
+    "Python.task-13-20807.executor": "Run",
     "Python.task-13-20959.executor": "Run",
+    "Python.task-13-21412.executor": "Run",
+    "Python.task-13-21708.executor": "Run",
+    "Python.task-13-21899.executor": "Run",
     "Python.task-1311791.executor": "Run",
+    "Python.task-1321708.executor": "Run",
     "Python.task-14(2)-9745.executor": "Run",
     "Python.task-14-10097(1).executor": "Run",
     "Python.task-14-10097.executor": "Run",
@@ -197,6 +199,7 @@
     "Python.task-16-9747.executor": "Run",
     "Python.task-16-9785.executor": "Run",
     "Python.task-16-9839.executor": "Run",
+    "Python.task-1856.executor": "Run",
     "Python.task-19(2к)-4599.executor": "Run",
     "Python.task-19-1752.executor": "Run",
     "Python.task-19-17532(2k).executor": "Run",
@@ -248,6 +251,7 @@
     "Python.task-5-1849.executor": "Run",
     "Python.task-5-1891.executor": "Run",
     "Python.task-5-21404.executor": "Run",
+    "Python.task-5-21700.executor": "Run",
     "Python.task-5-4585.executor": "Run",
     "Python.task-5-4610.executor": "Run",
     "Python.task-5-7607.executor": "Run",
@@ -263,8 +267,10 @@
     "Python.task-6-17519.executor": "Run",
     "Python.task-6-17547.executor": "Run",
     "Python.task-6-17625.executor": "Run",
+    "Python.task-6-19238.executor": "Run",
     "Python.task-6-8150.executor": "Run",
     "Python.task-6-9737!!!1.executor": "Run",
+    "Python.task-6-9737.executor": "Run",
     "Python.task-6-9775.executor": "Run",
     "Python.task-7667.executor": "Run",
     "Python.task-8-10090.executor": "Run",
@@ -275,6 +281,9 @@
     "Python.task-8-14412.executor": "Run",
     "Python.task-8-16374#.executor": "Run",
     "Python.task-8-16374.executor": "Run",
+    "Python.task-8-1721.executor": "Run",
+    "Python.task-8-17549.executor": "Run",
+    "Python.task-8-17627.executor": "Run",
     "Python.task-8-17671.executor": "Run",
     "Python.task-8-17766.executor": "Run",
     "Python.task-8-17798.executor": "Run",
@@ -282,12 +291,21 @@
     "Python.task-8-18120.executor": "Run",
     "Python.task-8-18133.executor": "Run",
     "Python.task-8-18484.executor": "Run",
+    "Python.task-8-1852.executor": "Run",
     "Python.task-8-18974.executor": "Run",
     "Python.task-8-1984.executor": "Run",
+    "Python.task-8-20898.executor": "Run",
+    "Python.task-8-21407.executor": "Run",
+    "Python.task-8-21703.executor": "Run",
+    "Python.task-8-4588.executor": "Run",
+    "Python.task-8-4613.executor": "Run",
     "Python.task-8-6478#.executor": "Run",
     "Python.task-8-6478.executor": "Run",
     "Python.task-8-9739.executor": "Run",
+    "Python.task-8-9777.executor": "Run",
+    "Python.task-8-9831.executor": "Run",
     "Python.task-81216.executor": "Run",
+    "Python.task-9-17550.executor": "Run",
     "Python.task-9-9832.executor": "Run",
     "Python.task1-17514.executor": "Run",
     "Python.task1-17620.executor": "Run",
@@ -305,23 +323,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/neo82/PycharmProjects/ege-2025/шпора/task-5"
+    "last_opened_file_path": "C:/Users/neo82/PycharmProjects/ege-2025/шпора/task-11"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task-11" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task-5" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task-4" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task3" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task2" />
-      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора" />
+      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task-12\hm" />
+      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\шпора\task-9" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\09-05-25" />
       <recent name="C:\Users\neo82\PycharmProjects\ege-2025\24-04-25" />
-      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\20-03-25\пробник" />
-      <recent name="C:\Users\neo82\PycharmProjects\ege-2025\13-03-25\ср" />
     </key>
   </component>
   <component name="RunManager">
@@ -364,86 +382,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736441140672</updated>
-    </task>
-    <task id="LOCAL-00035" summary="https://kompege.ru/variant?kim=25070990">
-      <option name="closed" value="true" />
-      <created>1741125336185</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1741125336185</updated>
-    </task>
-    <task id="LOCAL-00036" summary="пробник">
-      <option name="closed" value="true" />
-      <created>1741615652493</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1741615652493</updated>
-    </task>
-    <task id="LOCAL-00037" summary="https://kompege.ru/variant?kim=25071619">
-      <option name="closed" value="true" />
-      <created>1742310682043</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1742310682044</updated>
-    </task>
-    <task id="LOCAL-00038" summary="https://kompege.ru/variant?kim=25073504">
-      <option name="closed" value="true" />
-      <created>1742328127058</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1742328127058</updated>
-    </task>
-    <task id="LOCAL-00039" summary="change">
-      <option name="closed" value="true" />
-      <created>1742682890865</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1742682890865</updated>
-    </task>
-    <task id="LOCAL-00040" summary="https://kompege.ru/variant?kim=25090084">
-      <option name="closed" value="true" />
-      <created>1742682920966</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1742682920966</updated>
-    </task>
-    <task id="LOCAL-00041" summary="-">
-      <option name="closed" value="true" />
-      <created>1742682952668</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1742682952668</updated>
-    </task>
-    <task id="LOCAL-00042" summary="https://kompege.ru/variant?kim=25072113">
-      <option name="closed" value="true" />
-      <created>1742683003477</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1742683003477</updated>
-    </task>
-    <task id="LOCAL-00043" summary="https://inf-ege.sdamgia.ru/test?id=14887661">
-      <option name="closed" value="true" />
-      <created>1742829596002</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1742829596002</updated>
-    </task>
-    <task id="LOCAL-00044" summary="https://kompege.ru/variant?kim=25073504">
-      <option name="closed" value="true" />
-      <created>1742849036816</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1742849036816</updated>
     </task>
     <task id="LOCAL-00045" summary="https://kompege.ru/variant?kim=25072113">
       <option name="closed" value="true" />
@@ -757,19 +695,90 @@
       <option name="project" value="LOCAL" />
       <updated>1749070161424</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="https://kompege.ru/variant?kim=25102449">
+      <option name="closed" value="true" />
+      <created>1749077086577</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1749077086577</updated>
+    </task>
+    <task id="LOCAL-00085" summary="changes">
+      <option name="closed" value="true" />
+      <created>1749077109208</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1749077109208</updated>
+    </task>
+    <task id="LOCAL-00086" summary="https://kompege.ru/variant?kim=25102705">
+      <option name="closed" value="true" />
+      <created>1749111773942</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1749111773943</updated>
+    </task>
+    <task id="LOCAL-00087" summary="https://kompege.ru/variant?kim=25102704">
+      <option name="closed" value="true" />
+      <created>1749150924524</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1749150924524</updated>
+    </task>
+    <task id="LOCAL-00088" summary="https://kompege.ru/variant?kim=25102701">
+      <option name="closed" value="true" />
+      <created>1749150993035</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1749150993035</updated>
+    </task>
+    <task id="LOCAL-00089" summary="https://kompege.ru/variant?kim=25102707">
+      <option name="closed" value="true" />
+      <created>1749161023149</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1749161023150</updated>
+    </task>
+    <task id="LOCAL-00090" summary="https://kompege.ru/variant?kim=25102972">
+      <option name="closed" value="true" />
+      <created>1749225394125</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1749225394126</updated>
+    </task>
+    <task id="LOCAL-00091" summary="https://kompege.ru/variant?kim=25102973">
+      <option name="closed" value="true" />
+      <created>1749230436725</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1749230436725</updated>
+    </task>
+    <task id="LOCAL-00092" summary="https://kompege.ru/variant?kim=25102977">
+      <option name="closed" value="true" />
+      <created>1749259468469</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1749259468470</updated>
+    </task>
+    <task id="LOCAL-00093" summary="https://kompege.ru/variant?kim=25102977">
+      <option name="closed" value="true" />
+      <created>1749259933662</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1749259933662</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="https://kompege.ru/variant?kim=25075731" />
-    <MESSAGE value="." />
-    <MESSAGE value="https://kompege.ru/variant?kim=25076364" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25077094" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25086062" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25093914" />
-    <MESSAGE value="/" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25094032" />
-    <MESSAGE value="https://kompege.ru/variant?kim=25089716" />
     <MESSAGE value="https://kompege.ru/variant?kim=25094984" />
     <MESSAGE value="..." />
     <MESSAGE value="https://kompege.ru/variant?kim=25096425" />
@@ -786,7 +795,16 @@
     <MESSAGE value="шпора" />
     <MESSAGE value="https://kompege.ru/variant?kim=25102447" />
     <MESSAGE value="https://kompege.ru/variant?kim=25102458" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25102458" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102449" />
+    <MESSAGE value="changes" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102705" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102704" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102701" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102707" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102972" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102973" />
+    <MESSAGE value="https://kompege.ru/variant?kim=25102977" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25102977" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
